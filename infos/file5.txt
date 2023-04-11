@@ -1,0 +1,225 @@
+File <file5.txt> started at 2023-04-04 17:59:30.779671 and finished 2023-04-04 18:01:20.963762
+Total of domain names for test file file5.txt = 14
+Total of packets :30905
+Lasted for 1.8364015166666667 minutes
+
+Total volume :26296020.0
+
+
+
+Domain name <us05www3.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:34.321463
+         2023-04-04 17:59:34.321801
+         2023-04-04 17:59:34.332064
+         2023-04-04 17:59:34.332064
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-04 17:59:34.385985
+         2023-04-04 17:59:34.386282
+         2023-04-04 17:59:34.387690
+         2023-04-04 17:59:34.388029
+         2023-04-04 17:59:52.613136
+         2023-04-04 17:59:52.613445
+         2023-04-04 17:59:52.617293
+         2023-04-04 17:59:52.617602
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadnj213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:38.581315
+         2023-04-04 17:59:38.581943
+         2023-04-04 17:59:38.594914
+         2023-04-04 17:59:38.596101
+         2023-04-04 17:59:53.652202
+         2023-04-04 17:59:53.654413
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadnk213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:38.582083
+         2023-04-04 17:59:38.582216
+         2023-04-04 17:59:38.595417
+         2023-04-04 17:59:38.597396
+         2023-04-04 17:59:53.652263
+         2023-04-04 17:59:53.654849
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         AAAA
+         A
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadnj100mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:39.220657
+         2023-04-04 17:59:39.220657
+         2023-04-04 17:59:39.230936
+         2023-04-04 17:59:39.232613
+         2023-04-04 17:59:54.290658
+         2023-04-04 17:59:54.292194
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         AAAA
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:42.609400
+         2023-04-04 17:59:42.610383
+         2023-04-04 17:59:42.619144
+         2023-04-04 17:59:42.620176
+         2023-04-04 17:59:58.085130
+         2023-04-04 17:59:58.086011
+         2023-04-04 17:59:58.088828
+         2023-04-04 17:59:58.097651
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <us04logfiles.zoom.us>
+
+     Times : 
+         2023-04-04 17:59:53.536950
+         2023-04-04 17:59:53.537339
+         2023-04-04 17:59:53.548959
+         2023-04-04 17:59:53.551536
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <evt-us.ds.corp.zoom.us>
+
+     Times : 
+         2023-04-04 18:00:23.157811
+         2023-04-04 18:00:23.158615
+         2023-04-04 18:00:23.168719
+         2023-04-04 18:00:23.169629
+
+     Authoritative server(s) : 
+         evt-us.ds.corp.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05web.zoom.us>
+
+     Times : 
+         2023-04-04 18:00:24.078572
+         2023-04-04 18:00:24.079285
+         2023-04-04 18:00:24.089635
+         2023-04-04 18:00:24.101822
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Total of A = 22
+Total of PTR = 0
+Total of AAAA = 28
+Total of SRV = 0
+Total of HTTPS = 0
+
+
+Ip destinations
+192.168.129.255
+192.168.129.19
+34.241.180.76
+255.255.255.255
+192.168.1.255
+52.54.96.194
+170.114.15.169
+170.114.59.10
+192.168.128.1
+224.0.0.251
+206.247.95.213
+206.247.94.213
+52.70.60.249
+206.247.94.100
+20.90.153.243
+54.167.72.5
+170.114.11.104
+107.22.247.231
+170.114.11.105
+224.0.0.252
+224.0.0.1
+51.104.30.131

@@ -1,0 +1,1124 @@
+File <file8.txt> started at 2023-04-11 10:55:31.001037 and finished 2023-04-11 10:59:50.940716
+Total of domain names for test file file8.txt = 48
+Total of packets :36228
+Lasted for 4.332327983333333 minutes
+
+Total volume :26020277.0
+
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-11 10:55:48.103773
+         2023-04-11 10:55:48.103989
+         2023-04-11 10:55:48.113254
+         2023-04-11 10:55:48.113254
+         2023-04-11 10:55:58.371473
+         2023-04-11 10:55:58.373096
+         2023-04-11 10:56:08.417462
+         2023-04-11 10:56:08.417490
+         2023-04-11 10:56:08.422001
+         2023-04-11 10:56:08.422702
+         2023-04-11 10:56:16.855503
+         2023-04-11 10:56:16.855856
+         2023-04-11 10:56:16.866848
+         2023-04-11 10:56:16.866960
+         2023-04-11 10:56:39.573495
+         2023-04-11 10:56:39.573602
+         2023-04-11 10:56:39.582970
+         2023-04-11 10:56:39.587654
+         2023-04-11 10:56:45.936435
+         2023-04-11 10:56:45.953845
+         2023-04-11 10:56:53.932833
+         2023-04-11 10:56:53.944860
+         2023-04-11 10:56:53.945977
+         2023-04-11 10:56:53.965461
+         2023-04-11 10:57:00.975779
+         2023-04-11 10:57:01.431300
+         2023-04-11 10:57:07.842959
+         2023-04-11 10:57:07.843013
+         2023-04-11 10:57:07.855580
+         2023-04-11 10:57:07.855580
+         2023-04-11 10:57:13.420726
+         2023-04-11 10:57:13.420757
+         2023-04-11 10:57:13.431561
+         2023-04-11 10:57:13.431561
+         2023-04-11 10:57:22.878470
+         2023-04-11 10:57:22.879584
+         2023-04-11 10:57:22.887806
+         2023-04-11 10:57:22.888964
+         2023-04-11 10:57:49.933662
+         2023-04-11 10:57:49.933999
+         2023-04-11 10:57:49.941212
+         2023-04-11 10:57:49.941212
+         2023-04-11 10:58:22.900167
+         2023-04-11 10:58:22.901093
+         2023-04-11 10:58:22.911488
+         2023-04-11 10:58:22.912175
+
+     Authoritative server(s) : 
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+         A
+         A
+         A
+         A
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadhz213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-11 10:55:48.262340
+         2023-04-11 10:55:48.262385
+         2023-04-11 10:55:48.299395
+         2023-04-11 10:55:48.409898
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+
+
+Domain name <zoomiadia213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-11 10:55:48.262341
+         2023-04-11 10:55:48.262424
+         2023-04-11 10:55:48.299395
+         2023-04-11 10:55:48.299395
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <default.exp-tas.com>
+
+     Times : 
+         2023-04-11 10:55:49.320729
+         2023-04-11 10:55:49.320728
+         2023-04-11 10:55:49.359785
+         2023-04-11 10:55:49.359785
+         2023-04-11 10:55:59.449040
+         2023-04-11 10:55:59.454985
+         2023-04-11 10:55:59.696509
+         2023-04-11 10:55:59.698413
+         2023-04-11 10:56:03.082774
+         2023-04-11 10:56:03.087411
+         2023-04-11 10:56:03.580983
+         2023-04-11 10:56:03.582998
+         2023-04-11 10:56:03.960246
+         2023-04-11 10:56:03.964673
+         2023-04-11 10:56:05.959360
+         2023-04-11 10:56:05.967385
+
+     Authoritative server(s) : 
+         default.exp-tas.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadii65mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-11 10:55:49.648367
+         2023-04-11 10:55:49.688304
+         2023-04-11 10:55:49.756181
+         2023-04-11 10:55:49.792536
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         A
+         AAAA
+         AAAA
+
+
+Domain name <www.msftconnecttest.com>
+
+     Times : 
+         2023-04-11 10:55:54.443205
+         2023-04-11 10:55:54.444692
+         2023-04-11 10:55:54.463684
+         2023-04-11 10:55:54.473107
+         2023-04-11 10:56:40.147808
+         2023-04-11 10:56:40.148778
+         2023-04-11 10:56:40.165288
+         2023-04-11 10:56:40.187622
+         2023-04-11 10:56:59.422356
+         2023-04-11 10:56:59.586552
+
+     Authoritative server(s) : 
+         www.msftconnecttest.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         A
+         A
+         A
+
+
+Domain name <ipv6.msftconnecttest.com>
+
+     Times : 
+         2023-04-11 10:55:54.443688
+         2023-04-11 10:55:54.444308
+         2023-04-11 10:55:54.465695
+         2023-04-11 10:55:54.470346
+         2023-04-11 10:56:40.147800
+         2023-04-11 10:56:40.165288
+         2023-04-11 10:57:00.398783
+         2023-04-11 10:57:00.503375
+         2023-04-11 10:57:04.087352
+         2023-04-11 10:57:04.919529
+
+     Authoritative server(s) : 
+         ipv6.msftconnecttest.com
+         ipv6.msftconnecttest.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+         A
+         AAAA
+         AAAA
+
+
+Domain name <dns.msftncsi.com>
+
+     Times : 
+         2023-04-11 10:55:54.640575
+         2023-04-11 10:55:54.706946
+         2023-04-11 10:56:39.561691
+         2023-04-11 10:56:39.561692
+         2023-04-11 10:56:39.636125
+         2023-04-11 10:56:39.661653
+         2023-04-11 10:56:39.735975
+         2023-04-11 10:56:40.643745
+         2023-04-11 10:56:42.651517
+         2023-04-11 10:56:42.651744
+         2023-04-11 10:56:42.695495
+         2023-04-11 10:56:42.695495
+         2023-04-11 10:57:00.507367
+         2023-04-11 10:57:00.569138
+         2023-04-11 10:57:00.632836
+         2023-04-11 10:57:00.928638
+         2023-04-11 10:57:00.931070
+         2023-04-11 10:57:01.939326
+         2023-04-11 10:57:03.839568
+         2023-04-11 10:57:03.912559
+
+     Authoritative server(s) : 
+
+     Type requests:
+         AAAA
+         AAAA
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+         A
+         A
+         A
+         A
+         A
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-11 10:55:54.773586
+         2023-04-11 10:55:54.774540
+         2023-04-11 10:55:54.777960
+         2023-04-11 10:55:54.801227
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <gew4-spclient.spotify.com>
+
+     Times : 
+         2023-04-11 10:55:59.406167
+         2023-04-11 10:55:59.407235
+         2023-04-11 10:55:59.408103
+         2023-04-11 10:55:59.409525
+         2023-04-11 10:55:59.434882
+         2023-04-11 10:55:59.436053
+         2023-04-11 10:56:50.320069
+         2023-04-11 10:56:50.321208
+         2023-04-11 10:56:50.354863
+         2023-04-11 10:56:50.354863
+         2023-04-11 10:58:44.309363
+         2023-04-11 10:58:44.310418
+         2023-04-11 10:58:44.311263
+         2023-04-11 10:58:44.319006
+         2023-04-11 10:58:44.332296
+         2023-04-11 10:58:44.338262
+
+     Authoritative server(s) : 
+         gew4-spclient.spotify.com
+         gew4-spclient.spotify.com
+         gew4-spclient.spotify.com
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         AAAA
+         A
+         HTTPS
+         A
+         HTTPS
+         A
+         HTTPS
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <westus-0.in.applicationinsights.azure.com>
+
+     Times : 
+         2023-04-11 10:56:02.096032
+         2023-04-11 10:56:02.096890
+         2023-04-11 10:56:02.127326
+         2023-04-11 10:56:02.127899
+
+     Authoritative server(s) : 
+         westus-0.in.applicationinsights.azure.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <ss-prod-ew1-notif-48.aws.adobess.com>
+
+     Times : 
+         2023-04-11 10:56:06.574350
+         2023-04-11 10:56:06.574351
+         2023-04-11 10:56:06.604892
+         2023-04-11 10:56:09.575121
+         2023-04-11 10:56:09.605318
+         2023-04-11 10:57:23.932621
+         2023-04-11 10:57:23.933003
+         2023-04-11 10:57:23.969548
+         2023-04-11 10:57:23.969548
+
+     Authoritative server(s) : 
+         aws.adobess.com
+         aws.adobess.com
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <self.events.data.microsoft.com>
+
+     Times : 
+         2023-04-11 10:56:17.347014
+         2023-04-11 10:56:17.347979
+         2023-04-11 10:56:17.379620
+         2023-04-11 10:56:17.382943
+         2023-04-11 10:56:57.433458
+         2023-04-11 10:56:57.496165
+         2023-04-11 10:56:57.535725
+         2023-04-11 10:56:57.539448
+         2023-04-11 10:57:07.908025
+         2023-04-11 10:57:07.912126
+         2023-04-11 10:57:07.942711
+         2023-04-11 10:57:07.942711
+
+     Authoritative server(s) : 
+         self.events.data.microsoft.com
+         self.events.data.microsoft.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+         A
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <eu-mobile.events.data.microsoft.com>
+
+     Times : 
+         2023-04-11 10:56:17.347693
+         2023-04-11 10:56:17.348466
+         2023-04-11 10:56:17.383236
+         2023-04-11 10:56:17.383236
+         2023-04-11 10:56:57.438228
+         2023-04-11 10:56:57.501193
+         2023-04-11 10:56:58.305881
+         2023-04-11 10:57:09.069483
+         2023-04-11 10:57:09.069483
+         2023-04-11 10:57:09.112744
+         2023-04-11 10:57:09.112744
+
+     Authoritative server(s) : 
+         eu-mobile.events.data.microsoft.com
+         eu-mobile.events.data.microsoft.com
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         A
+         A
+         A
+         AAAA
+         A
+         AAAA
+         A
+
+
+Domain name <spclient.wg.spotify.com>
+
+     Times : 
+         2023-04-11 10:56:30.856341
+         2023-04-11 10:56:30.857290
+         2023-04-11 10:56:30.857924
+         2023-04-11 10:56:30.890640
+         2023-04-11 10:56:30.891123
+         2023-04-11 10:56:31.684651
+         2023-04-11 10:56:46.418665
+         2023-04-11 10:56:46.419131
+         2023-04-11 10:56:46.461548
+         2023-04-11 10:56:46.461548
+         2023-04-11 10:56:47.467609
+         2023-04-11 10:56:47.468113
+         2023-04-11 10:56:47.489193
+         2023-04-11 10:56:48.327823
+         2023-04-11 10:57:05.415451
+         2023-04-11 10:57:05.423989
+         2023-04-11 10:57:05.427907
+         2023-04-11 10:57:05.433376
+         2023-04-11 10:57:05.539710
+         2023-04-11 10:57:05.539710
+         2023-04-11 10:58:39.170313
+         2023-04-11 10:58:39.171110
+         2023-04-11 10:58:39.171805
+         2023-04-11 10:58:39.201127
+         2023-04-11 10:58:39.203683
+         2023-04-11 10:58:39.210611
+
+     Authoritative server(s) : 
+         spclient.wg.spotify.com
+         spclient.wg.spotify.com
+         spclient.wg.spotify.com
+         spclient.wg.spotify.com
+         spclient.wg.spotify.com
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         AAAA
+         HTTPS
+         A
+         A
+         HTTPS
+         HTTPS
+         A
+         A
+         HTTPS
+         A
+         HTTPS
+         A
+         A
+         AAAA
+         HTTPS
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <cc-api-data.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:39.593252
+         2023-04-11 10:56:39.649703
+         2023-04-11 10:56:39.649704
+         2023-04-11 10:56:39.735975
+         2023-04-11 10:56:39.735975
+         2023-04-11 10:56:39.735975
+         2023-04-11 10:56:45.951580
+         2023-04-11 10:56:45.974338
+
+     Authoritative server(s) : 
+         adobe.io
+         adobe.io
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+         A
+         A
+         A
+
+
+Domain name <cc-api-behance.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:41.090838
+         2023-04-11 10:56:41.091807
+         2023-04-11 10:56:41.134158
+         2023-04-11 10:56:41.921423
+
+     Authoritative server(s) : 
+         adobe.io
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <scss.adobesc.com>
+
+     Times : 
+         2023-04-11 10:56:41.206941
+         2023-04-11 10:56:41.206941
+         2023-04-11 10:56:41.241785
+         2023-04-11 10:56:41.241785
+
+     Authoritative server(s) : 
+         scss.adobesc.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <dealer.spotify.com>
+
+     Times : 
+         2023-04-11 10:56:41.234856
+         2023-04-11 10:56:41.235510
+         2023-04-11 10:56:41.268963
+         2023-04-11 10:56:41.270748
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <a5.behance.net>
+
+     Times : 
+         2023-04-11 10:56:41.654909
+         2023-04-11 10:56:41.655121
+         2023-04-11 10:56:41.693791
+         2023-04-11 10:56:42.495674
+         2023-04-11 10:56:45.951034
+         2023-04-11 10:56:45.970687
+
+     Authoritative server(s) : 
+         behance.net
+
+     Type requests:
+         AAAA
+         A
+         A
+         AAAA
+         A
+         A
+
+
+Domain name <cchome.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:41.770290
+         2023-04-11 10:56:41.770508
+         2023-04-11 10:56:42.617762
+         2023-04-11 10:56:42.617762
+         2023-04-11 10:56:45.996001
+         2023-04-11 10:56:46.043749
+
+     Authoritative server(s) : 
+         adobe.io
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+         A
+         A
+
+
+Domain name <notify.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:42.122080
+         2023-04-11 10:56:42.123124
+         2023-04-11 10:56:42.171518
+         2023-04-11 10:56:42.177864
+
+     Authoritative server(s) : 
+         adobe.io
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <geo.prod.do.dsp.mp.microsoft.com>
+
+     Times : 
+         2023-04-11 10:56:42.343608
+         2023-04-11 10:56:42.343747
+         2023-04-11 10:56:42.366752
+         2023-04-11 10:56:42.366752
+
+     Authoritative server(s) : 
+         geo.prod.do.dsp.mp.microsoft.com
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+
+
+Domain name <client.wns.windows.com>
+
+     Times : 
+         2023-04-11 10:56:42.492770
+         2023-04-11 10:56:42.536913
+         2023-04-11 10:56:43.944349
+         2023-04-11 10:56:43.967561
+
+     Authoritative server(s) : 
+         client.wns.windows.com
+
+     Type requests:
+         AAAA
+         AAAA
+         A
+         A
+
+
+Domain name <acp-ss-ew1.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:42.582610
+         2023-04-11 10:56:42.583512
+         2023-04-11 10:56:42.617762
+         2023-04-11 10:56:42.617762
+
+     Authoritative server(s) : 
+         adobe.io
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <apresolve.spotify.com>
+
+     Times : 
+         2023-04-11 10:56:42.664955
+         2023-04-11 10:56:42.666142
+         2023-04-11 10:56:42.666959
+         2023-04-11 10:56:42.717615
+         2023-04-11 10:56:42.717615
+         2023-04-11 10:56:42.905181
+         2023-04-11 10:56:42.905583
+         2023-04-11 10:56:42.920928
+         2023-04-11 10:56:46.029359
+         2023-04-11 10:56:46.029873
+         2023-04-11 10:56:46.043749
+         2023-04-11 10:56:46.877709
+
+     Authoritative server(s) : 
+         spotify.com
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         A
+         HTTPS
+         A
+         A
+         HTTPS
+         A
+         HTTPS
+
+
+Domain name <cloud.dell.com>
+
+     Times : 
+         2023-04-11 10:56:42.780655
+         2023-04-11 10:56:42.781607
+         2023-04-11 10:56:42.831000
+         2023-04-11 10:56:42.831000
+
+     Authoritative server(s) : 
+         cloud.dell.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <ap.spotify.com>
+
+     Times : 
+         2023-04-11 10:56:43.081159
+         2023-04-11 10:56:43.161596
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <licensing.mp.microsoft.com>
+
+     Times : 
+         2023-04-11 10:56:43.138262
+         2023-04-11 10:56:43.180008
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <kv501.prod.do.dsp.mp.microsoft.com>
+
+     Times : 
+         2023-04-11 10:56:43.386368
+         2023-04-11 10:56:43.427800
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <api.msn.com>
+
+     Times : 
+         2023-04-11 10:56:45.138586
+         2023-04-11 10:56:45.181296
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <assets.msn.com>
+
+     Times : 
+         2023-04-11 10:56:45.524936
+         2023-04-11 10:56:45.560602
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <ccprojects.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:45.997531
+         2023-04-11 10:56:46.069307
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <clients3.google.com>
+
+     Times : 
+         2023-04-11 10:56:46.021993
+         2023-04-11 10:56:46.069307
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <platform-lookaside.fbsbx.com>
+
+     Times : 
+         2023-04-11 10:56:46.030409
+         2023-04-11 10:56:46.030763
+         2023-04-11 10:56:46.069307
+         2023-04-11 10:56:46.877709
+
+     Authoritative server(s) : 
+         platform-lookaside.fbsbx.com
+
+     Type requests:
+         A
+         HTTPS
+         A
+         HTTPS
+
+
+Domain name <gew4-dealer.spotify.com>
+
+     Times : 
+         2023-04-11 10:56:46.285398
+         2023-04-11 10:56:46.285864
+         2023-04-11 10:56:46.334379
+         2023-04-11 10:56:46.334379
+
+     Authoritative server(s) : 
+         gew4-dealer.spotify.com
+
+     Type requests:
+         A
+         HTTPS
+         A
+         HTTPS
+
+
+Domain name <ims-prod06.adobelogin.com>
+
+     Times : 
+         2023-04-11 10:56:46.644983
+         2023-04-11 10:56:46.689045
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <lcs-cops.adobe.io>
+
+     Times : 
+         2023-04-11 10:56:47.502306
+         2023-04-11 10:56:47.543417
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <pla-prod-we-sb-ns-ingest-01.servicebus.windows.net>
+
+     Times : 
+         2023-04-11 10:56:48.331979
+         2023-04-11 10:56:48.375240
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         A
+
+
+Domain name <audio-ak-spotify-com.akamaized.net>
+
+     Times : 
+         2023-04-11 10:56:57.626751
+         2023-04-11 10:56:57.627766
+         2023-04-11 10:56:57.689907
+         2023-04-11 10:56:57.689907
+         2023-04-11 10:57:06.736777
+         2023-04-11 10:57:06.737215
+         2023-04-11 10:57:06.737582
+         2023-04-11 10:57:06.755077
+         2023-04-11 10:57:06.757892
+         2023-04-11 10:57:06.758039
+
+     Authoritative server(s) : 
+         audio-ak-spotify-com.akamaized.net
+         audio-ak-spotify-com.akamaized.net
+
+     Type requests:
+         A
+         HTTPS
+         A
+         HTTPS
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <builds.parsec.app>
+
+     Times : 
+         2023-04-11 10:58:25.881183
+         2023-04-11 10:58:25.882351
+         2023-04-11 10:58:25.911211
+         2023-04-11 10:58:25.911557
+
+     Authoritative server(s) : 
+         parsec.app
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <windows.kite.com>
+
+     Times : 
+         2023-04-11 10:59:14.131143
+         2023-04-11 10:59:14.132053
+         2023-04-11 10:59:14.166747
+         2023-04-11 10:59:14.213897
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <uclouvain-my.sharepoint.com>
+
+     Times : 
+         2023-04-11 10:59:41.861066
+         2023-04-11 10:59:41.861384
+         2023-04-11 10:59:41.894188
+         2023-04-11 10:59:41.897418
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Total of A = 162
+Total of PTR = 0
+Total of AAAA = 120
+Total of SRV = 0
+Total of HTTPS = 28
+
+
+Ip destinations
+192.168.129.255
+192.168.1.255
+192.168.129.19
+170.114.52.5
+170.114.15.195
+44.194.17.145
+35.186.224.41
+35.186.224.47
+192.168.128.1
+206.247.141.213
+206.247.140.213
+13.107.5.93
+206.247.149.65
+107.20.12.118
+224.0.0.252
+224.0.0.251
+255.255.255.255
+224.0.0.2
+20.90.152.133
+13.107.4.52
+20.90.156.32
+170.114.11.105
+20.90.153.243
+35.186.224.17
+20.189.172.32
+54.220.98.214
+54.74.120.83
+40.79.150.120
+20.42.73.25
+34.158.0.131
+170.114.14.66
+51.104.30.131
+54.194.243.238
+3.248.26.100
+54.77.72.255
+52.5.13.197
+52.184.212.181
+13.225.239.89
+54.74.179.44
+34.250.67.152
+34.98.74.57
+143.166.199.30
+20.123.104.105
+23.2.234.61
+204.79.197.203
+81.243.1.240
+13.225.239.96
+54.195.71.107
+142.251.36.46
+179.60.195.12
+35.186.224.25
+54.194.221.159
+192.229.221.95
+52.233.192.247
+51.104.15.253
+81.243.1.11
+52.178.17.3
+13.89.179.10
+20.50.80.210
+224.0.0.1
+104.18.0.181

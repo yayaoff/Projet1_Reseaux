@@ -1,0 +1,233 @@
+File <file3.txt> started at 2023-04-04 17:48:25.174698 and finished 2023-04-04 17:49:07.467121
+Total of domain names for test file file3.txt = 15
+Total of packets :7301
+Lasted for 0.7048737166666666 minutes
+
+Total volume :5479954.0
+
+
+
+Domain name <us05www3.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:27.307127
+         2023-04-04 17:48:27.307548
+         2023-04-04 17:48:27.318155
+         2023-04-04 17:48:27.318321
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-04 17:48:27.326115
+         2023-04-04 17:48:27.326551
+         2023-04-04 17:48:27.328026
+         2023-04-04 17:48:27.328140
+         2023-04-04 17:48:44.178613
+         2023-04-04 17:48:44.178613
+         2023-04-04 17:48:44.183600
+         2023-04-04 17:48:44.184283
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <login.live.com>
+
+     Times : 
+         2023-04-04 17:48:28.085502
+         2023-04-04 17:48:28.085936
+         2023-04-04 17:48:28.098910
+         2023-04-04 17:48:28.100090
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <prod.rewardsplatform.microsoft.com>
+
+     Times : 
+         2023-04-04 17:48:29.306637
+         2023-04-04 17:48:29.307651
+         2023-04-04 17:48:29.351611
+         2023-04-04 17:48:30.192972
+
+     Authoritative server(s) : 
+         prod.rewardsplatform.microsoft.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadin253zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:32.985712
+         2023-04-04 17:48:32.987366
+         2023-04-04 17:48:32.999265
+         2023-04-04 17:48:33.001392
+         2023-04-04 17:48:44.320338
+         2023-04-04 17:48:44.332883
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadio253zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:32.987366
+         2023-04-04 17:48:32.988429
+         2023-04-04 17:48:33.000954
+         2023-04-04 17:48:33.013610
+         2023-04-04 17:48:44.320359
+         2023-04-04 17:48:44.333130
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadiq163mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:33.912946
+         2023-04-04 17:48:33.913056
+         2023-04-04 17:48:33.924847
+         2023-04-04 17:48:33.937277
+         2023-04-04 17:48:44.959422
+         2023-04-04 17:48:44.970707
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <evt-us.ds.corp.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:33.969445
+         2023-04-04 17:48:33.980788
+
+     Authoritative server(s) : 
+         evt-us.ds.corp.zoom.us
+
+     Type requests:
+         AAAA
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:37.401273
+         2023-04-04 17:48:37.402266
+         2023-04-04 17:48:37.412554
+         2023-04-04 17:48:37.412770
+         2023-04-04 17:48:48.642821
+         2023-04-04 17:48:48.653639
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <us04logfiles.zoom.us>
+
+     Times : 
+         2023-04-04 17:48:44.204216
+         2023-04-04 17:48:44.204614
+         2023-04-04 17:48:44.217883
+         2023-04-04 17:48:44.218352
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Total of A = 20
+Total of PTR = 0
+Total of AAAA = 30
+Total of SRV = 0
+Total of HTTPS = 0
+
+
+Ip destinations
+192.168.129.255
+20.90.153.243
+192.168.129.19
+170.114.15.169
+192.168.1.255
+192.168.128.1
+107.20.137.119
+20.82.220.141
+206.247.153.253
+206.247.154.253
+206.247.156.163
+170.114.59.10
+170.114.11.104
+224.0.0.251
+52.70.60.249
+34.241.180.76

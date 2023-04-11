@@ -1,0 +1,694 @@
+File <file4.txt> started at 2023-04-04 17:51:55.608199 and finished 2023-04-04 17:55:16.583137
+Total of domain names for test file file4.txt = 32
+Total of packets :34623
+Lasted for 3.3495823 minutes
+
+Total volume :23323792.0
+
+
+
+Domain name <us05www3.zoom.us>
+
+     Times : 
+         2023-04-04 17:51:58.714306
+         2023-04-04 17:51:58.714589
+         2023-04-04 17:51:58.724572
+         2023-04-04 17:51:58.725127
+         2023-04-04 17:55:11.021704
+         2023-04-04 17:55:11.021985
+         2023-04-04 17:55:11.034371
+         2023-04-04 17:55:11.036412
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us04xmppapi.zoom.us>
+
+     Times : 
+         2023-04-04 17:51:58.759468
+         2023-04-04 17:51:58.759910
+         2023-04-04 17:51:58.771064
+         2023-04-04 17:51:58.771720
+         2023-04-04 17:55:15.701667
+         2023-04-04 17:55:15.702004
+         2023-04-04 17:55:15.714692
+         2023-04-04 17:55:15.728112
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <evt-us.ds.corp.zoom.us>
+
+     Times : 
+         2023-04-04 17:51:58.869553
+         2023-04-04 17:51:58.870277
+         2023-04-04 17:51:58.880330
+         2023-04-04 17:51:58.881510
+         2023-04-04 17:52:05.472948
+         2023-04-04 17:52:05.474940
+         2023-04-04 17:53:59.667200
+         2023-04-04 17:53:59.668387
+         2023-04-04 17:53:59.678345
+         2023-04-04 17:53:59.679368
+
+     Authoritative server(s) : 
+         evt-us.ds.corp.zoom.us
+         evt-us.ds.corp.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-04 17:51:58.890321
+         2023-04-04 17:51:58.891177
+         2023-04-04 17:51:58.892855
+         2023-04-04 17:51:58.893572
+         2023-04-04 17:52:20.906476
+         2023-04-04 17:52:20.906784
+         2023-04-04 17:52:20.910639
+         2023-04-04 17:52:20.911326
+         2023-04-04 17:53:10.022015
+         2023-04-04 17:53:10.022344
+         2023-04-04 17:53:10.023738
+         2023-04-04 17:53:10.026273
+         2023-04-04 17:54:32.935835
+         2023-04-04 17:54:32.936334
+         2023-04-04 17:54:32.940813
+         2023-04-04 17:54:32.940813
+         2023-04-04 17:55:12.543280
+         2023-04-04 17:55:12.544055
+         2023-04-04 17:55:12.547233
+         2023-04-04 17:55:12.548440
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05web.zoom.us>
+
+     Times : 
+         2023-04-04 17:51:59.555954
+         2023-04-04 17:51:59.556705
+         2023-04-04 17:51:59.558293
+         2023-04-04 17:51:59.558658
+         2023-04-04 17:53:01.621250
+         2023-04-04 17:53:01.621664
+         2023-04-04 17:53:01.622156
+         2023-04-04 17:53:01.635817
+         2023-04-04 17:53:01.635817
+         2023-04-04 17:53:01.635817
+         2023-04-04 17:54:00.610071
+         2023-04-04 17:54:00.611058
+         2023-04-04 17:54:00.620767
+         2023-04-04 17:54:00.623601
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadir253zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:52:04.526171
+         2023-04-04 17:52:04.527605
+         2023-04-04 17:52:04.538679
+         2023-04-04 17:52:04.541304
+         2023-04-04 17:52:21.655482
+         2023-04-04 17:52:21.669412
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadis44zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:52:04.526235
+         2023-04-04 17:52:04.527606
+         2023-04-04 17:52:04.539932
+         2023-04-04 17:52:04.541585
+         2023-04-04 17:52:21.655508
+         2023-04-04 17:52:21.669903
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadis159mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:52:05.068867
+         2023-04-04 17:52:05.080848
+         2023-04-04 17:52:05.083197
+         2023-04-04 17:52:05.439990
+         2023-04-04 17:52:22.309325
+         2023-04-04 17:52:22.320727
+
+     Authoritative server(s) : 
+         iad.zoom.us
+         iad.zoom.us
+
+     Type requests:
+         A
+         A
+         AAAA
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <polka.typekit.com>
+
+     Times : 
+         2023-04-04 17:52:07.723728
+         2023-04-04 17:52:07.724419
+         2023-04-04 17:52:07.734877
+         2023-04-04 17:52:07.735197
+
+     Authoritative server(s) : 
+         typekit.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-04 17:52:08.653045
+         2023-04-04 17:52:08.653749
+         2023-04-04 17:52:08.664494
+         2023-04-04 17:52:08.676889
+         2023-04-04 17:52:25.991846
+         2023-04-04 17:52:26.002221
+         2023-04-04 17:53:02.229574
+         2023-04-04 17:53:02.230121
+         2023-04-04 17:53:02.230581
+         2023-04-04 17:53:02.240317
+         2023-04-04 17:53:02.241862
+         2023-04-04 17:53:02.242096
+         2023-04-04 17:55:15.547553
+         2023-04-04 17:55:15.547896
+         2023-04-04 17:55:15.558467
+         2023-04-04 17:55:15.559356
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+         zoom.us
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         AAAA
+         AAAA
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <us04logfiles.zoom.us>
+
+     Times : 
+         2023-04-04 17:52:21.974451
+         2023-04-04 17:52:21.974911
+         2023-04-04 17:52:21.986410
+         2023-04-04 17:52:21.995092
+         2023-04-04 17:52:21.997499
+         2023-04-04 17:52:22.005727
+         2023-04-04 17:53:16.324265
+         2023-04-04 17:53:16.334050
+         2023-04-04 17:54:33.820026
+         2023-04-04 17:54:33.820368
+         2023-04-04 17:54:33.832803
+         2023-04-04 17:54:33.836536
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         A
+         AAAA
+         A
+         A
+         A
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <windows.kite.com>
+
+     Times : 
+         2023-04-04 17:52:29.492104
+         2023-04-04 17:52:29.536843
+
+     Authoritative server(s) : 
+
+     Type requests:
+         AAAA
+         AAAA
+
+
+Domain name <acp-ss-ew1.adobe.io>
+
+     Times : 
+         2023-04-04 17:52:50.328120
+         2023-04-04 17:52:50.328803
+         2023-04-04 17:52:50.338869
+         2023-04-04 17:52:50.339815
+
+     Authoritative server(s) : 
+         adobe.io
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <st1.zoom.us>
+
+     Times : 
+         2023-04-04 17:53:01.718284
+         2023-04-04 17:53:01.718746
+         2023-04-04 17:53:01.719228
+         2023-04-04 17:53:01.730293
+         2023-04-04 17:53:01.730293
+         2023-04-04 17:53:01.731044
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <us05st1.zoom.us>
+
+     Times : 
+         2023-04-04 17:53:01.719864
+         2023-04-04 17:53:01.720357
+         2023-04-04 17:53:01.720778
+         2023-04-04 17:53:01.731471
+         2023-04-04 17:53:01.731471
+         2023-04-04 17:53:01.738879
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         AAAA
+         HTTPS
+         A
+
+
+Domain name <us05st3.zoom.us>
+
+     Times : 
+         2023-04-04 17:53:01.729439
+         2023-04-04 17:53:01.730039
+         2023-04-04 17:53:01.731018
+         2023-04-04 17:53:01.743073
+         2023-04-04 17:53:01.744869
+         2023-04-04 17:53:01.744869
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <www.googletagmanager.com>
+
+     Times : 
+         2023-04-04 17:53:02.220252
+         2023-04-04 17:53:02.220833
+         2023-04-04 17:53:02.221491
+         2023-04-04 17:53:02.232935
+         2023-04-04 17:53:02.232935
+         2023-04-04 17:53:02.232935
+
+     Authoritative server(s) : 
+         googletagmanager.com
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         HTTPS
+         AAAA
+
+
+Domain name <pi.pardot.com>
+
+     Times : 
+         2023-04-04 17:53:02.655073
+         2023-04-04 17:53:02.655617
+         2023-04-04 17:53:02.656316
+         2023-04-04 17:53:02.667125
+         2023-04-04 17:53:02.667432
+         2023-04-04 17:53:02.668988
+
+     Authoritative server(s) : 
+         pi.pardot.com
+         pi.pardot.com
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         AAAA
+         HTTPS
+
+
+Domain name <us04file.zoom.us>
+
+     Times : 
+         2023-04-04 17:53:03.046854
+         2023-04-04 17:53:03.047347
+         2023-04-04 17:53:03.047937
+         2023-04-04 17:53:03.058276
+         2023-04-04 17:53:03.059619
+         2023-04-04 17:53:03.059619
+
+     Authoritative server(s) : 
+         us04file.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         AAAA
+         HTTPS
+         A
+
+
+Domain name <ome.apis.dell.com>
+
+     Times : 
+         2023-04-04 17:53:10.617673
+         2023-04-04 17:53:10.618112
+         2023-04-04 17:53:10.628875
+         2023-04-04 17:53:10.629267
+
+     Authoritative server(s) : 
+         ome.apis.dell.com
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <dcsznginxff.cloud.zoom.us>
+
+     Times : 
+         2023-04-04 17:53:13.068500
+         2023-04-04 17:53:13.069169
+         2023-04-04 17:53:13.069706
+         2023-04-04 17:53:13.080947
+         2023-04-04 17:53:13.082280
+         2023-04-04 17:53:13.093795
+
+     Authoritative server(s) : 
+         zoom.us
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         HTTPS
+         A
+         HTTPS
+         AAAA
+
+
+Domain name <_ldap._tcp.dc._msdcs.DESKTOP-9JSC3O1.home>
+
+     Times : 
+         2023-04-04 17:53:36.487139
+         2023-04-04 17:53:36.488828
+
+     Authoritative server(s) : 
+
+     Type requests:
+         SRV
+         SRV
+
+
+Domain name <zoomsjcdp213zc.sjc.zoom.us>
+
+     Times : 
+         2023-04-04 17:55:12.562113
+         2023-04-04 17:55:12.563366
+         2023-04-04 17:55:12.574108
+         2023-04-04 17:55:12.575609
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomsjcdo213zc.sjc.zoom.us>
+
+     Times : 
+         2023-04-04 17:55:12.562120
+         2023-04-04 17:55:12.563383
+         2023-04-04 17:55:12.575889
+         2023-04-04 17:55:12.595616
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <zoomiadhw213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:55:12.562833
+         2023-04-04 17:55:12.565713
+         2023-04-04 17:55:12.575169
+         2023-04-04 17:55:12.578102
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadhx213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:55:12.562894
+         2023-04-04 17:55:12.565174
+         2023-04-04 17:55:12.578102
+         2023-04-04 17:55:12.586245
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <zoomiadin179mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 17:55:13.097829
+         2023-04-04 17:55:13.200168
+         2023-04-04 17:55:13.218823
+         2023-04-04 17:55:13.230648
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Total of A = 78
+Total of PTR = 0
+Total of AAAA = 86
+Total of SRV = 2
+Total of HTTPS = 18
+
+
+Ip destinations
+192.168.129.255
+224.0.0.251
+192.168.1.255
+20.90.153.243
+192.168.129.19
+170.114.15.169
+192.168.128.1
+170.114.59.10
+224.0.0.1
+224.0.0.252
+107.20.137.119
+206.247.157.253
+206.247.158.44
+206.247.158.159
+54.167.72.5
+170.114.11.104
+52.70.60.249
+34.241.180.76
+255.255.255.255
+54.194.243.238
+13.225.17.242
+52.54.96.194
+51.104.30.131
+143.166.199.30
+134.224.66.184
+51.11.192.49
+144.195.93.213
+206.247.138.213
+206.247.139.213
+144.195.92.213
+206.247.153.179
+170.114.11.105

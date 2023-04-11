@@ -1,0 +1,299 @@
+File <file6.txt> started at 2023-04-04 18:01:56.693173 and finished 2023-04-04 18:03:34.905484
+Total of domain names for test file file6.txt = 19
+Total of packets :26026
+Lasted for 1.63687185 minutes
+
+Total volume :20929488.0
+
+
+
+Domain name <us04xmppapi.zoom.us>
+
+     Times : 
+         2023-04-04 18:01:59.760233
+         2023-04-04 18:01:59.761024
+         2023-04-04 18:01:59.776312
+         2023-04-04 18:01:59.783626
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <us05www3.zoom.us>
+
+     Times : 
+         2023-04-04 18:01:59.773167
+         2023-04-04 18:01:59.774279
+         2023-04-04 18:01:59.786680
+         2023-04-04 18:01:59.786680
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-04 18:02:00.000335
+         2023-04-04 18:02:00.001335
+         2023-04-04 18:02:00.006065
+         2023-04-04 18:02:00.006065
+         2023-04-04 18:02:14.979587
+         2023-04-04 18:02:14.980405
+         2023-04-04 18:02:14.983594
+         2023-04-04 18:02:14.983961
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadlt253zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:03.163005
+         2023-04-04 18:02:03.164060
+         2023-04-04 18:02:03.184492
+         2023-04-04 18:02:03.298022
+         2023-04-04 18:02:15.772068
+         2023-04-04 18:02:15.776486
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadlu253zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:03.163146
+         2023-04-04 18:02:03.164171
+         2023-04-04 18:02:03.178058
+         2023-04-04 18:02:03.184492
+         2023-04-04 18:02:15.772223
+         2023-04-04 18:02:15.776835
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+         AAAA
+         AAAA
+
+
+Domain name <zoomiadly122mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:03.820494
+         2023-04-04 18:02:03.820495
+         2023-04-04 18:02:03.972966
+         2023-04-04 18:02:03.972966
+         2023-04-04 18:02:16.422771
+         2023-04-04 18:02:16.424959
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <builds.parsec.app>
+
+     Times : 
+         2023-04-04 18:02:04.786012
+         2023-04-04 18:02:04.787040
+         2023-04-04 18:02:04.798341
+         2023-04-04 18:02:04.811453
+
+     Authoritative server(s) : 
+         parsec.app
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:07.905799
+         2023-04-04 18:02:07.906178
+         2023-04-04 18:02:07.915668
+         2023-04-04 18:02:07.916614
+         2023-04-04 18:02:20.086638
+         2023-04-04 18:02:20.088182
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+         AAAA
+         AAAA
+
+
+Domain name <us04logfiles.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:16.069942
+         2023-04-04 18:02:16.070531
+         2023-04-04 18:02:16.080869
+         2023-04-04 18:02:16.081194
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <evt-us.ds.corp.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:24.124863
+         2023-04-04 18:02:24.135527
+
+     Authoritative server(s) : 
+         evt-us.ds.corp.zoom.us
+
+     Type requests:
+         AAAA
+         AAAA
+
+
+Domain name <us05web.zoom.us>
+
+     Times : 
+         2023-04-04 18:02:25.053877
+         2023-04-04 18:02:25.054996
+         2023-04-04 18:02:25.057104
+         2023-04-04 18:02:25.063508
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <windows.kite.com>
+
+     Times : 
+         2023-04-04 18:02:29.499483
+         2023-04-04 18:02:29.544955
+
+     Authoritative server(s) : 
+
+     Type requests:
+         AAAA
+         AAAA
+
+
+Domain name <fp-vs-nocache.azureedge.net>
+
+     Times : 
+         2023-04-04 18:02:34.166456
+         2023-04-04 18:02:34.167021
+         2023-04-04 18:02:34.176423
+         2023-04-04 18:02:34.177258
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <a-ring-fallback.msedge.net>
+
+     Times : 
+         2023-04-04 18:02:34.300456
+         2023-04-04 18:02:34.300876
+         2023-04-04 18:02:34.313347
+         2023-04-04 18:02:34.313651
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Total of A = 26
+Total of PTR = 0
+Total of AAAA = 38
+Total of SRV = 0
+Total of HTTPS = 0
+
+
+Ip destinations
+20.90.153.243
+192.168.129.19
+192.168.129.255
+224.0.0.251
+192.168.1.255
+54.167.72.5
+170.114.15.169
+170.114.59.10
+192.168.128.1
+206.247.56.253
+206.247.57.253
+224.0.0.252
+206.247.60.122
+104.18.1.181
+170.114.11.105
+52.70.60.249
+34.241.180.76
+224.0.0.1
+204.79.197.222
+204.79.197.203
+81.243.1.240
+51.104.30.131

@@ -1,0 +1,212 @@
+File <file7.txt> started at 2023-04-04 18:05:40.081695 and finished 2023-04-04 18:07:01.343463
+Total of domain names for test file file7.txt = 15
+Total of packets :22881
+Lasted for 1.3543628 minutes
+
+Total volume :18027398.0
+
+
+
+Domain name <us05www3.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:43.948061
+         2023-04-04 18:05:43.948530
+         2023-04-04 18:05:43.961320
+         2023-04-04 18:05:43.962931
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         AAAA
+         A
+
+
+Domain name <wpad.home>
+
+     Times : 
+         2023-04-04 18:05:45.382624
+         2023-04-04 18:05:45.383391
+         2023-04-04 18:05:45.388901
+         2023-04-04 18:05:45.388901
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomsjcdn253zc.sjc.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:45.421095
+         2023-04-04 18:05:45.422712
+         2023-04-04 18:05:45.434008
+         2023-04-04 18:05:45.449102
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomsjcdm253zc.sjc.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:45.421827
+         2023-04-04 18:05:45.423282
+         2023-04-04 18:05:45.436336
+         2023-04-04 18:05:45.436864
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadmk213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:45.421827
+         2023-04-04 18:05:45.423553
+         2023-04-04 18:05:45.433271
+         2023-04-04 18:05:45.439091
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <zoomiadmj213zc.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:45.422450
+         2023-04-04 18:05:45.424003
+         2023-04-04 18:05:45.434929
+         2023-04-04 18:05:45.435729
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         AAAA
+         A
+         AAAA
+         A
+
+
+Domain name <zoomiadmk7mmr.iad.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:45.981692
+         2023-04-04 18:05:46.084753
+         2023-04-04 18:05:46.113297
+         2023-04-04 18:05:46.216789
+
+     Authoritative server(s) : 
+         iad.zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05nws.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:48.980601
+         2023-04-04 18:05:48.981456
+         2023-04-04 18:05:48.991542
+         2023-04-04 18:05:48.992008
+
+     Authoritative server(s) : 
+         zoom.us
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us04xmppapi.zoom.us>
+
+     Times : 
+         2023-04-04 18:05:49.575980
+         2023-04-04 18:05:49.576706
+         2023-04-04 18:05:49.586573
+         2023-04-04 18:05:49.626415
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Domain name <us05web.zoom.us>
+
+     Times : 
+         2023-04-04 18:06:25.074412
+         2023-04-04 18:06:25.075549
+         2023-04-04 18:06:25.086098
+         2023-04-04 18:06:25.086098
+
+     Authoritative server(s) : 
+
+     Type requests:
+         A
+         AAAA
+         A
+         AAAA
+
+
+Total of A = 20
+Total of PTR = 0
+Total of AAAA = 20
+Total of SRV = 0
+Total of HTTPS = 0
+
+
+Ip destinations
+20.90.153.243
+192.168.129.19
+51.104.30.131
+192.168.129.255
+224.0.0.251
+192.168.128.1
+54.167.72.5
+206.247.71.213
+144.195.91.253
+206.247.70.213
+144.195.90.253
+206.247.71.7
+170.114.15.169
+192.168.1.255
+170.114.11.104
+52.70.60.249
+34.241.180.76
+224.0.0.1
+224.0.0.252
